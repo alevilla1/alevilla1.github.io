@@ -11,8 +11,10 @@
 	<body>
 		<tw-story tags></tw-story>
 		<tw-storydata name="Test1" startnode="1" creator="Twine" creator-version="2.6.2" format="Snowman" format-version="2.0.2" ifid="D8A621B0-E73B-40C7-9AD2-93BCF883F08B" options="" tags="" zoom="1" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">.passage{
- background: black;
- color:white;
+  background: rgba(0,0,0,0.5);
+  color:white;
+  border-radius:5px;
+  padding:20px;
 }
 
 a {
@@ -35,25 +37,26 @@ function route(data) {
 }</script><tw-passagedata pid="1" name="start" tags="" position="700,375" size="100,100">You are in a dark room, what do you do?
 
 [[search for a light switch|lightSearch]]
+
 [[ask outloud, &quot;is anybody here?&quot;|askSomeone]]</tw-passagedata><tw-passagedata pid="2" name="light" tags="" position="950,500" size="100,100">The room brightens in a flash, you notice that you are not in kansas anymore...
 
-You notice something interesting in front of you, what do you do?
+Something interesting in front of you, what do you do?
 
 [[turn light off|reset]]
+
 [[inspect the object]]
 
 &lt;%
    window.postMessage(&quot;show_room&quot;, &quot;*&quot;);
 %&gt;
-</tw-passagedata><tw-passagedata pid="3" name="askSomeone" tags="" position="825,325" size="100,100">You don&#39;t hear a thing
+</tw-passagedata><tw-passagedata pid="3" name="askSomeone" tags="" position="825,325" size="100,100">You don&#39;t hear a thing...
 
 [[search for a light switch|lightSearch]]</tw-passagedata><tw-passagedata pid="4" name="thankyou" tags="" position="700,500" size="100,100">Well done! This concludes the Test.
 
 Thank you!
+</tw-passagedata><tw-passagedata pid="5" name="lightSearch" tags="" position="825,500" size="100,100">You touch the walls and noticed a light switch, what do you do?
 
- </tw-passagedata><tw-passagedata pid="5" name="lightSearch" tags="" position="825,500" size="100,100">You touch the walls and noticed a light switch, what do you do?
-
-[[turn on|light]]</tw-passagedata><tw-passagedata pid="6" name="inspect the object" tags="" position="1075,625" size="100,100">It seems to be a set of tiles, perhaps clicking on them will reveal something, perhaps all tiles need to be clicked...
+[[turn on|light]]</tw-passagedata><tw-passagedata pid="6" name="inspect the object" tags="" position="1075,625" size="100,100">It seems to be a set of tiles, perhaps clicking on all tiles will reveal something, perhaps not...
 
 [[continue|game1]]</tw-passagedata><tw-passagedata pid="7" name="game1" tags="" position="1200,750" size="100,100">&lt;%
    window.postMessage(&quot;start_game1&quot;, &quot;*&quot;);
