@@ -75,14 +75,30 @@ Including the location of a spaceship!
 This completes the test! 
 
 Thank you for playing!
-</tw-passagedata><tw-passagedata pid="11" name="board" tags="" position="1400,550" size="100,100">Once you are inside of the spaceship, you hear a loud tremor, and all the sudden the doors close and the ship takes off, after a short while it stops in the middle of space and gives you control of the hyperdrive, as if it wanted you to push the throttle...
+</tw-passagedata><tw-passagedata pid="11" name="board" tags="" position="1400,550" size="100,100">Once you are inside of the spaceship, you hear a loud tremor.
+
+All the sudden... the doors close and the ship takes off.
+
+What do you do?
+
+[[Shout &quot;HELP!&quot;|shouthelp]]
+
+[[Run to the front of the ship|gotoFront]]
+
+</tw-passagedata><tw-passagedata pid="12" name="game2" tags="" position="1525,825" size="100,100">&lt;%
+   window.postMessage(&quot;start_game2&quot;, &quot;*&quot;);
+%&gt;</tw-passagedata><tw-passagedata pid="13" name="shouthelp" tags="" position="1525,675" size="100,100">Your voice only echos, the spaceship seems to be fully automated.
+
+...and you are the only person aboard.
+
+[[Run to the front of the ship|gotoFront]]</tw-passagedata><tw-passagedata pid="14" name="gotoFront" tags="" position="1400,800" size="100,100">You get to the front of the ship and the vastness of space captivates you for a moment...
+
+Out of nowhere, the dashboard unlocks, revealing the hyperdrive throttle, as if it wanted you to push it...
 
 [[continue|game2]]
 
 &lt;%
    window.postMessage(&quot;show_spaceship&quot;, &quot;*&quot;);
-%&gt;</tw-passagedata><tw-passagedata pid="12" name="game2" tags="" position="1400,675" size="100,100">&lt;%
-   window.postMessage(&quot;start_game2&quot;, &quot;*&quot;);
 %&gt;</tw-passagedata></tw-storydata>
 		<script>
 		(function(){function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var c="function"==typeof require&&require;if(!f&&c)return c(i,!0);if(u)return u(i,!0);var a=new Error("Cannot find module '"+i+"'");throw a.code="MODULE_NOT_FOUND",a}var p=n[i]={exports:{}};e[i][0].call(p.exports,function(r){var n=e[i][1][r];return o(n||r)},p,p.exports,r,e,n,t)}return n[i].exports}for(var u="function"==typeof require&&require,i=0;i<t.length;i++)o(t[i]);return o}return r})()({1:[function(require,module,exports){

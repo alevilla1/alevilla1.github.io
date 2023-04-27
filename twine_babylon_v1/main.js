@@ -47,7 +47,7 @@ var main = (function(){
                 break;
             case "game1_complete":
                 tl.to(story, { autoAlpha: 1, duration: 0.3 });
-                tl.to(display, { autoAlpha: 0, duration: 0.5 });
+                tl.to(display, { autoAlpha: 0, duration: 0.5, delay:1});
                 story.contentWindow.postMessage("goto_end","*");
                 break;
             case "game2_complete":
