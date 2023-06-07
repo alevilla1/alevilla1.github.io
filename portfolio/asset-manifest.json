@@ -1,13 +1,8 @@
 {
   "files": {
     "main.css": "/alevilla1.github.io/portfolio/static/css/main.0a56a094.css",
-    "main.js": "/alevilla1.github.io/portfolio/static/js/main.f832e218.js",
+    "main.js": "/alevilla1.github.io/portfolio/static/js/main.92d949a5.js",
     "static/js/787.1ed0c42c.chunk.js": "/alevilla1.github.io/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/rf_land.mp4": "/alevilla1.github.io/portfolio/static/media/rf_land.401c6fdaa5abdb266386.mp4",
-    "static/media/sandbox.mp4": "/alevilla1.github.io/portfolio/static/media/sandbox.ec0307f467db7ec0bfb6.mp4",
-    "static/media/bug_bounty_promo.mp4": "/alevilla1.github.io/portfolio/static/media/bug_bounty_promo.b788106c4a23a5e9ef89.mp4",
-    "static/media/discord_promo_v2.mp4": "/alevilla1.github.io/portfolio/static/media/discord_promo_v2.5d314d98167ef769c700.mp4",
-    "static/media/wearables.mp4": "/alevilla1.github.io/portfolio/static/media/wearables.69da596174107335119c.mp4",
     "static/media/av_portfolio.pdf": "/alevilla1.github.io/portfolio/static/media/av_portfolio.899760693fc466959cf4.pdf",
     "static/media/preloader.gif": "/alevilla1.github.io/portfolio/static/media/preloader.db43235e339fefb989cd.gif",
     "static/media/sandbox.png": "/alevilla1.github.io/portfolio/static/media/sandbox.a7ab3bdcc63351393398.png",
@@ -52,11 +47,11 @@
     "static/media/sandbox.svg": "/alevilla1.github.io/portfolio/static/media/sandbox.9eed52abdf5bcb5c26b99f7266296fbf.svg",
     "static/media/twine.svg": "/alevilla1.github.io/portfolio/static/media/twine.2470d3d5ebae8e443c50f460f3e3b410.svg",
     "main.0a56a094.css.map": "/alevilla1.github.io/portfolio/static/css/main.0a56a094.css.map",
-    "main.f832e218.js.map": "/alevilla1.github.io/portfolio/static/js/main.f832e218.js.map",
+    "main.92d949a5.js.map": "/alevilla1.github.io/portfolio/static/js/main.92d949a5.js.map",
     "787.1ed0c42c.chunk.js.map": "/alevilla1.github.io/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a56a094.css",
-    "static/js/main.f832e218.js"
+    "static/js/main.92d949a5.js"
   ]
 }
