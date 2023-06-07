@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/alevilla1.github.io/portfolio/static/css/main.0a56a094.css",
-    "main.js": "/alevilla1.github.io/portfolio/static/js/main.92d949a5.js",
+    "main.js": "/alevilla1.github.io/portfolio/static/js/main.018adfa6.js",
     "static/js/787.1ed0c42c.chunk.js": "/alevilla1.github.io/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/av_portfolio.pdf": "/alevilla1.github.io/portfolio/static/media/av_portfolio.899760693fc466959cf4.pdf",
     "static/media/preloader.gif": "/alevilla1.github.io/portfolio/static/media/preloader.db43235e339fefb989cd.gif",
@@ -47,11 +47,11 @@
     "static/media/sandbox.svg": "/alevilla1.github.io/portfolio/static/media/sandbox.9eed52abdf5bcb5c26b99f7266296fbf.svg",
     "static/media/twine.svg": "/alevilla1.github.io/portfolio/static/media/twine.2470d3d5ebae8e443c50f460f3e3b410.svg",
     "main.0a56a094.css.map": "/alevilla1.github.io/portfolio/static/css/main.0a56a094.css.map",
-    "main.92d949a5.js.map": "/alevilla1.github.io/portfolio/static/js/main.92d949a5.js.map",
+    "main.018adfa6.js.map": "/alevilla1.github.io/portfolio/static/js/main.018adfa6.js.map",
     "787.1ed0c42c.chunk.js.map": "/alevilla1.github.io/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a56a094.css",
-    "static/js/main.92d949a5.js"
+    "static/js/main.018adfa6.js"
   ]
 }
