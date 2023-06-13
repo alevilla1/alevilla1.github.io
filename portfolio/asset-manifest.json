@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.0a56a094.css",
-    "main.js": "/portfolio/static/js/main.5a78c395.js",
+    "main.js": "/portfolio/static/js/main.c26ad465.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/av_portfolio.pdf": "/portfolio/static/media/av_portfolio.899760693fc466959cf4.pdf",
     "static/media/preloader.gif": "/portfolio/static/media/preloader.db43235e339fefb989cd.gif",
@@ -10,6 +10,7 @@
     "static/media/decentraland.png": "/portfolio/static/media/decentraland.d01c1af213fc8b865fda.png",
     "static/media/affinity.png": "/portfolio/static/media/affinity.fcdce297bf5c41b0dedc.png",
     "static/media/Alysun_Lundy_Shoptalk2023_promo.png": "/portfolio/static/media/Alysun_Lundy_Shoptalk2023_promo.dc35570653da08116bc6.png",
+    "static/media/spark_studio.png": "/portfolio/static/media/spark_studio.02867c93f782971f8989.png",
     "static/media/icons.png": "/portfolio/static/media/icons.57edd802b8b5206b9343.png",
     "static/media/social_posts.png": "/portfolio/static/media/social_posts.fe974323e6cdca537d18.png",
     "static/media/kokomo_glasses.png": "/portfolio/static/media/kokomo_glasses.49a3f6484f4578db92b9.png",
@@ -47,11 +48,11 @@
     "static/media/sandbox.svg": "/portfolio/static/media/sandbox.9eed52abdf5bcb5c26b99f7266296fbf.svg",
     "static/media/twine.svg": "/portfolio/static/media/twine.2470d3d5ebae8e443c50f460f3e3b410.svg",
     "main.0a56a094.css.map": "/portfolio/static/css/main.0a56a094.css.map",
-    "main.5a78c395.js.map": "/portfolio/static/js/main.5a78c395.js.map",
+    "main.c26ad465.js.map": "/portfolio/static/js/main.c26ad465.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a56a094.css",
-    "static/js/main.5a78c395.js"
+    "static/js/main.c26ad465.js"
   ]
 }
