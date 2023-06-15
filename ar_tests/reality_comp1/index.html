@@ -1,17 +1,34 @@
 <!doctype html>
 <html>
+
 <head>
-<title>Our Funky HTML Page</title>
-<meta name="description" content="Our first page">
-<meta name="keywords" content="html tutorial template">
+    <style>
+        .hidden {
+            display: none;
+        }
+
+        .visible {
+            display: block;
+        }
+    </style>
+    <title>HTML Test Page</title>
+    <meta name="description" content="Our first page">
+    <meta name="keywords" content="html tutorial template">
+    <base href="/augmented-reality/quick-look/" target="_blank">
 </head>
+
 <body>
-<script>
-    const a = document.createElement("a");
-    if (a.relList.supports("ar")) {
-    document.body.append("AR ENABLED")
-    }
-</script>
-    <a rel="ar" href="/assets/test1.reality"><img class="image-model" src="/assets/thumbnail.png" alt="" data-hires-status="pending"><div class="block-link">Click here to preview model</div></a>
+    <script>
+        const a = document.createElement("a");
+        if (a.relList.supports("ar")) {
+            var link = document.getElementsByClassName("visible")[0];
+            link.className = "visible";
+        }
+    </script>
+    <a class="hidden" rel="ar" href="/assets/test1.reality"><img class="image-model" src="/assets/thumbnail.png" alt=""
+            data-hires-status="pending">
+        <div class="block-link">Click here to preview model</div>
+    </a>
 </body>
+
 </html>
