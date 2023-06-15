@@ -18,17 +18,17 @@
 </head>
 
 <body>
-    <script>
-        const a = document.createElement("a");
-        if (a.relList.supports("ar")) {
-            var link = document.getElementsByClassName("visible")[0];
-            link.className = "visible";
-        }
-    </script>
     <a class="hidden" rel="ar" href="/assets/test1.reality"><img class="image-model" src="/assets/thumbnail.png" alt=""
             data-hires-status="pending">
         <div class="block-link">Click here to preview model</div>
     </a>
+    <script>
+        const a = document.createElement("a");
+        if (a.relList.supports("ar")) {
+            var link = document.getElementsByClassName("hidden")[0];
+            link.className = "visible";
+        }
+    </script>
 </body>
 
 </html>
