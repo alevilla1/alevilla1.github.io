@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.0a56a094.css",
-    "main.js": "/portfolio/static/js/main.811a1cd2.js",
+    "main.css": "/portfolio/static/css/main.c1371b69.css",
+    "main.js": "/portfolio/static/js/main.6ff54d3a.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/av_portfolio.pdf": "/portfolio/static/media/av_portfolio.cb22aa1eb239ccca5de8.pdf",
     "static/media/preloader.gif": "/portfolio/static/media/preloader.db43235e339fefb989cd.gif",
@@ -40,6 +40,9 @@
     "static/media/illustrations.png": "/portfolio/static/media/illustrations.0c33e34b838a0f75a18c.png",
     "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/creative_cloud.svg": "/portfolio/static/media/creative_cloud.ee4220b16cf200f3a4c359b90d76f736.svg",
+    "static/media/thumbs_burgerking_logo_wide.jpg": "/portfolio/static/media/thumbs_burgerking_logo_wide.c275aa40f6ff049615d3.jpg",
+    "static/media/thumbs_fiat_logo_wide.jpg": "/portfolio/static/media/thumbs_fiat_logo_wide.d3097bd1425f80f72147.jpg",
+    "static/media/thumbs_mars_logo_wide.jpg": "/portfolio/static/media/thumbs_mars_logo_wide.f267e6a588ad34320eea.jpg",
     "static/media/obs.svg": "/portfolio/static/media/obs.582f6040ae75af733c7822fc06fa9670.svg",
     "static/media/visual_studio.svg": "/portfolio/static/media/visual_studio.5f6c87ee85944898b6682f2a2a13df91.svg",
     "static/media/media_encoder.svg": "/portfolio/static/media/media_encoder.158e6b2d7ae1eb1379768960061cdf69.svg",
@@ -61,12 +64,12 @@
     "static/media/sandbox.svg": "/portfolio/static/media/sandbox.9eed52abdf5bcb5c26b99f7266296fbf.svg",
     "static/media/twine.svg": "/portfolio/static/media/twine.2470d3d5ebae8e443c50f460f3e3b410.svg",
     "index.html": "/portfolio/index.html",
-    "main.0a56a094.css.map": "/portfolio/static/css/main.0a56a094.css.map",
-    "main.811a1cd2.js.map": "/portfolio/static/js/main.811a1cd2.js.map",
+    "main.c1371b69.css.map": "/portfolio/static/css/main.c1371b69.css.map",
+    "main.6ff54d3a.js.map": "/portfolio/static/js/main.6ff54d3a.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a56a094.css",
-    "static/js/main.811a1cd2.js"
+    "static/css/main.c1371b69.css",
+    "static/js/main.6ff54d3a.js"
   ]
 }
