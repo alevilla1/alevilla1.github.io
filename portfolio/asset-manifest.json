@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.32fee1f8.css",
-    "main.js": "/portfolio/static/js/main.3d45bdcd.js",
+    "main.js": "/portfolio/static/js/main.62ea0058.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/av_portfolio.pdf": "/portfolio/static/media/av_portfolio.cb22aa1eb239ccca5de8.pdf",
-    "static/media/preloader.gif": "/portfolio/static/media/preloader.db43235e339fefb989cd.gif",
     "static/media/sandbox.png": "/portfolio/static/media/sandbox.a7ab3bdcc63351393398.png",
     "static/media/NHL_WinterClassicReaction_010124.png": "/portfolio/static/media/NHL_WinterClassicReaction_010124.17c958f95d0d2d341386.png",
     "static/media/NHL_WinterClassicHype_010124.png": "/portfolio/static/media/NHL_WinterClassicHype_010124.a3688b0e732248a3e22a.png",
@@ -36,13 +35,14 @@
     "static/media/jill_cruz_40over40_social_promo.png": "/portfolio/static/media/jill_cruz_40over40_social_promo.1dac343d28063cd18ba6.png",
     "static/media/social_square_app_option2.png": "/portfolio/static/media/social_square_app_option2.f61aabb2df348d18e41b.png",
     "static/media/CanonKokomo_social_vertical.png": "/portfolio/static/media/CanonKokomo_social_vertical.33b51cf1c8ef532c515f.png",
+    "static/media/preloader.png": "/portfolio/static/media/preloader.d0c8d716696a90a357c6.png",
     "static/media/social_square_v3_option2.png": "/portfolio/static/media/social_square_v3_option2.8905da1f31727e31ee7c.png",
     "static/media/illustrations.png": "/portfolio/static/media/illustrations.0c33e34b838a0f75a18c.png",
-    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/creative_cloud.svg": "/portfolio/static/media/creative_cloud.ee4220b16cf200f3a4c359b90d76f736.svg",
     "static/media/thumbs_jeep_logo_wide.jpg": "/portfolio/static/media/thumbs_jeep_logo_wide.8948232548c07c077a6b.jpg",
     "static/media/thumbs_burgerking_logo_wide.jpg": "/portfolio/static/media/thumbs_burgerking_logo_wide.c275aa40f6ff049615d3.jpg",
     "static/media/thumbs_fiat_logo_wide.jpg": "/portfolio/static/media/thumbs_fiat_logo_wide.d3097bd1425f80f72147.jpg",
+    "static/media/figma.png": "/portfolio/static/media/figma.479b05acd67161425caa.png",
     "static/media/thumbs_mars_logo_wide.jpg": "/portfolio/static/media/thumbs_mars_logo_wide.f267e6a588ad34320eea.jpg",
     "static/media/obs.svg": "/portfolio/static/media/obs.582f6040ae75af733c7822fc06fa9670.svg",
     "static/media/visual_studio.svg": "/portfolio/static/media/visual_studio.5f6c87ee85944898b6682f2a2a13df91.svg",
@@ -66,11 +66,11 @@
     "static/media/twine.svg": "/portfolio/static/media/twine.2470d3d5ebae8e443c50f460f3e3b410.svg",
     "index.html": "/portfolio/index.html",
     "main.32fee1f8.css.map": "/portfolio/static/css/main.32fee1f8.css.map",
-    "main.3d45bdcd.js.map": "/portfolio/static/js/main.3d45bdcd.js.map",
+    "main.62ea0058.js.map": "/portfolio/static/js/main.62ea0058.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32fee1f8.css",
-    "static/js/main.3d45bdcd.js"
+    "static/js/main.62ea0058.js"
   ]
 }
